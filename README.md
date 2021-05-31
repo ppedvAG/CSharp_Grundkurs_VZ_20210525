@@ -134,8 +134,8 @@
 
 
 ## M016 | ABSCHLUSSPROJEKT (optional)
-- [ ] API <!--[Link](Uebungen/Modul016_API)-->
-- [ ] WPF <!--[Link](Uebungen/Modul016_WPF)-->
+- [x] API [Link](Uebungen/Modul016_API)
+- [x] WPF [Link](Uebungen/Modul016_WPF)
 
 
 ## M017 | ZUSÄTZLICHE THEMEN (optional)
